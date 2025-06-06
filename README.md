@@ -4,7 +4,7 @@
 
 A passionate FullStack Developer from India and Software Engineer 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
-- 🌱 I’m currently learning Python Full Stack
+- 🌱  Python Full Stack Developer
 - 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m looking for help with Placements in Python Full Stack
 - 💬 Ask me about Tech in Python,Html,Css
