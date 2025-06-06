@@ -4,13 +4,19 @@
 
 A passionate FullStack Developer from India and Software Engineer 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
-- 🌱  Python Full Stack Developer
+- 🌱 Currently growing as a **Python Full Stack Developer**
+-  🔭 I’ve built projects using **Hikvision SDK**, **Dahua SDK**, and **AI Voice Bot Systems**
+- 👯 I’m looking to collaborate on **Python**, **AI**, or **IoT-based** projects
 - 👯 I’m looking to collaborate on Python projects
-- 🤔 I’m looking for help with Placements in Python Full Stack
-- 💬 Ask me about Tech in Python,Html,Css
+- 💬 Ask me about Tech in Python,Html,Css,Bootstrap,SQL
 - 📫 How to reach me :hariharan25mh@gmail.com
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />] [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />])
 - 😄 Pronouns: Techie
+- ## 🧩 Projects Highlights
+
+- 🎥 **Hikvision SDK Live Video Streaming Integration (C++ / Python)**
+- 🛡️ **Dahua SDK Channel Monitoring System**
+- 🎙️ **AI Voice Bot System** (Offline + Twilio Based)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
