@@ -10,7 +10,7 @@ A passionate FullStack Developer from India and Software Engineer
 - 👯 I’m looking to collaborate on Python projects
 - 💬 Ask me about Tech in Python,Html,Css,Bootstrap,SQL
 - 📫 How to reach me :hariharan25mh@gmail.com
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />] [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]https://www.linkedin.com/in/hariharan25-m?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/hariharan25-m)
 - 😄 Pronouns: Techie
 - ## 🧩 Projects Highlights
 
