@@ -9,7 +9,7 @@ A passionate FullStack Developer from India and Software Engineer
 - 🤔 I’m looking for help with Placements in Python Full Stack
 - 💬 Ask me about Tech in Python,Html,Css
 - 📫 How to reach me :hariharan25mh@gmail.com
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />] [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />] [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />])
 - 😄 Pronouns: Techie
 
 ### I code in
