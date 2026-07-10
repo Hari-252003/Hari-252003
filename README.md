@@ -10,7 +10,7 @@ An energetic and self-starting software engineer, eager to learn new skills and 
 - 👯 I’m looking to collaborate on **Python**, **IoT**, or **AI/OpenCV-based** projects based in Coimbatore and beyond.
 - 💬 Ask me about Tech in Python, SQL, HTML, CSS, JavaScript, and Bootstrap[cite: 1].
 - 📫 How to reach me: hariharan25mh@gmail.com or 9994364676[cite: 1].
-- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/hariharan25)[cite: 1].
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/hariharan-m-ai-engineer)
 - 😄 Pronouns: Techie
 
 ---
