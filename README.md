@@ -2,7 +2,7 @@
 ## Hi there 👋 It's me Hariharan M
 
 A results-driven AI Engineer, specializing in Large Language Models (LLMs), Automatic Speech Recognition (ASR), and Text-to-Speech (TTS) pipelines to solve real-world problems. 
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="AI Brain Animation">                                                
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="AI Brain Animation">                                                 
 
 - 🌱 I am a results-driven AI Engineer with a B.E in CSE from SNS College of Engineering.
 - 🔭 I have built projects focusing on **Large Language Models (LLMs)**, **Automatic Speech Recognition (ASR)**, and **Text-to-Speech (TTS) pipelines**.
