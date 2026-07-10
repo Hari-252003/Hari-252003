@@ -2,7 +2,7 @@
 ## Hi there 👋 It's me Hariharan M
 
 A results-driven AI Engineer, specializing in Large Language Models (LLMs), Automatic Speech Recognition (ASR), and Text-to-Speech (TTS) pipelines to solve real-world problems. 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="AI Brain Animation">                                                
 
 - 🌱 I am a results-driven AI Engineer with a B.E in CSE from SNS College of Engineering.
 - 🔭 I have built projects focusing on **Large Language Models (LLMs)**, **Automatic Speech Recognition (ASR)**, and **Text-to-Speech (TTS) pipelines**.
@@ -33,11 +33,11 @@ A results-driven AI Engineer, specializing in Large Language Models (LLMs), Auto
 - **Programming:** Python (Advanced OOP, Iterators, Generators), SQL, HTML, CSS, Bootstrap.
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="SQL"/> 
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio.png" title="Visual Studio"/>
 
 ### 💻 Workspace Spec
-<img width="100" height="100" src="https://img.icons8.com/bubbles/100/windows-10.png" alt="windows-10"/>
+<img width="100" height="100" src="https://img.icons8.com/bubbles/100/windows-10.png" alt="windows-10" title="Windows 10"/>
