@@ -1,15 +1,15 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 ## Hi there 👋 It's me Hariharan M
 
-An energetic and self-starting software engineer, eager to learn new skills and use creative approaches to solve problems[cite: 1]. 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
+A results-driven AI Engineer, specializing in Large Language Models (LLMs), Automatic Speech Recognition (ASR), and Text-to-Speech (TTS) pipelines to solve real-world problems. 
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
 
-- 🌱 I am a quick learner with a B.E in CSE (IoT and Cybersecurity including Blockchain Technology) from SNS College of Engineering[cite: 1].
-- 🔭 I have built projects focusing on **IoT Systems**, **OpenCV**, and **Python Full Stack Development**[cite: 1].
-- 💼 I hold certifications in **Python Full Stack** from JSPIDERS, and **Data Science/Cloud/Blockchain** from IBM[cite: 1].
-- 👯 I’m looking to collaborate on **Python**, **IoT**, or **AI/OpenCV-based** projects based in Coimbatore and beyond.
-- 💬 Ask me about Tech in Python, SQL, HTML, CSS, JavaScript, and Bootstrap[cite: 1].
-- 📫 How to reach me: hariharan25mh@gmail.com or 9994364676[cite: 1].
+- 🌱 I am a results-driven AI Engineer with a B.E in CSE from SNS College of Engineering.
+- 🔭 I have built projects focusing on **Large Language Models (LLMs)**, **Automatic Speech Recognition (ASR)**, and **Text-to-Speech (TTS) pipelines**.
+- 💼 I am currently working as an **AI Engineer at Sporada Secure**, architecting autonomous voice agents and optimizing high-performance AI inference.
+- 👯 I’m looking to collaborate on **AI**, **LLM**, or **Voice-Agent-based** projects based in Coimbatore and beyond.
+- 💬 Ask me about Tech in Python, LangGraph, TensorRT-LLM, NLP, and Voice Orchestration.
+- 📫 How to reach me: hariharan25mh@gmail.com or 9994364676.
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/hariharan-m-ai-engineer)
 - 😄 Pronouns: Techie
 
@@ -17,19 +17,20 @@ An energetic and self-starting software engineer, eager to learn new skills and 
 
 ## 🧩 Projects Highlights
 
-- 🌦️ **IoT Weather Monitoring System:** Developed a system using IoT technology to collect, process, and display real-time weather data[cite: 1].
-- 🚗 **IoT Smart Car Parking System:** Optimized parking space usage by detecting available spots and guiding drivers using IoT technology[cite: 1].
-- 🖼️ **Image Resolution OpenCV:** Developed a system focusing on improving the clarity and detail of low-resolution images using image processing techniques[cite: 1].
-- ⚡ **Smart Energy Meter Using Arduino:** Measured and monitored electrical energy consumption in real-time to allow for efficient energy management[cite: 1].
+- 🤖 **Ramya - Autonomous Tamil AI Voice Agent:** Architected and deployed a production-grade agent for Anamallais Toyota, automating post-service feedback calls using advanced Indic TTS architectures.
+- 🎙️ **NeMo ASR & Streaming Architecture:** Engineered a low-latency, asynchronous WebSocket ASR server deploying a NeMo IndicConformer with sub-second inference latency.
+- 🔊 **IndicF5 TTS Optimization:** Achieved ultra-low latency inference by implementing FlashAttention-2 and engineered an FP16 TensorRT pipeline for seamless multilingual deployments.
+- 🧠 **Local LLM Inference Optimization:** Optimized the Gemma 3 12B model utilizing FP8 quantization and TensorRT-LLM on NVIDIA RTX GPUs for real-time interactions.
 
 ---
 
 ## 💻 Technical Skills & Expertise
 
-- **Programming:** Python (OOPs, Decorators, Iterators, File Handling, JSON/Pickle modules, Sorting/Searching Algorithms)[cite: 1].
-- **Database:** SQL (RDBMS Concepts, Joins, DQL, DDL, DML, TCL, DCL, Normalization)[cite: 1].
-- **Web Technologies:** HTML, CSS, JavaScript, Bootstrap (Flexbox, Grid Layout, CSS Transitions)[cite: 1].
-- **Internship Experience:** Gained industry exposure in IoT (Enthu Technology, Nitroware Technologies) and Java (Sungam Software)[cite: 1].
+- **Core AI & Deep Learning:** Large Language Models (LLMs), NLP, NLU, NLG, Automatic Speech Recognition (ASR), Text-to-Speech (TTS), Semantic Understanding, Agentic Workflows.
+- **Frameworks & Libraries:** LangGraph, LangChain, DSPY, TensorRT-LLM, Silero VAD, Docker.
+- **Model Optimization:** GGUF Format, FP8 Quantization, Semantic Caching, High-Performance Inference, NVIDIA RTX GPU Optimization.
+- **Voice & Telephony:** VoIP, SIP Trunking (Jio SIP), PBX Configuration, Voice Activity Detection (VAD).
+- **Programming:** Python (Advanced OOP, Iterators, Generators), SQL, HTML, CSS, Bootstrap.
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
